@@ -9,7 +9,7 @@ class {{cookiecutter.module_name.replace("_", "").capitalize()}}PluginConfig(Plu
 
     name = "{{cookiecutter.module_name}}"
     verbose_name = "{{cookiecutter.human_name}}"
-    description = gettext_lazy("{{cookiecutter.short_description}}")
+    description = "{{cookiecutter.short_description}}"
     author = "{{cookiecutter.author_name}}"
     author_email = "{{cookiecutter.author_email}}"
     version = "0.0.0"
