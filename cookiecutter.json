@@ -1,0 +1,9 @@
+{
+	"repo_name": "netbox-superplugin",
+	"repo_url": "GitHub repository URL",
+	"module_name": "netbox_superplugin",
+	"human_name": "The netbox super plugin",
+	"author_name": "Your name",
+	"author_email": "Your email",
+	"short_description": "Short description"
+}
