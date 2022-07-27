@@ -1,0 +1,5 @@
+recursive-include {{cookiecutter.module_name}}/static *
+recursive-include {{cookiecutter.module_name}}/templates *
+exclude {{cookiecutter.module_name}}/locale/django.pot
+recursive-include {{cookiecutter.module_name}}/locale *
+recursive-include {{cookiecutter.module_name}}/ *.py
