@@ -31,6 +31,15 @@ Now, change to the newly created directory::
 
 Voilà, there's your plugin structure! See netbox' `documentation`_ for more info.
 
+------
+
+Work on this project was kindly sponsored by `Globalways`_.
+
+.. image:: https://globalways.net/wp-content/uploads/2020/11/Varianten_Globalways_Logo_Farbe_Globalways_Logo_Farbe_2.svg
+   :target: https://globalways.net
+   :alt: Globalways logo
+
 .. _netbox: https://github.com/netbox-community/netbox
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 .. _documentation: https://docs.netbox.dev/en/stable/plugins/development/
+.. _globalways: https://www.globalways.net
